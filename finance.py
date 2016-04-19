@@ -136,7 +136,7 @@ def    ror (endv, iv):
 
 def    npv(ico, nci, r, n):
     """ This capital budgeting function computes the net present
-    value on an cash flow generating investment.
+    value on a cash flow generating investment.
     ico = Initial Capital Outlay
     nci = net cash inflows per period
     r = discounted rate
