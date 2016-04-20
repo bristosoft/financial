@@ -1,7 +1,6 @@
 """
 Summary: This module includes business formulas of all types.
 Organization: bristoSOFT 
-Version: 1.0
 Author: Kirk A Jackson, Chief Software Designer
 """
 # Imports
